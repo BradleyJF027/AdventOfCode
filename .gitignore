@@ -1,0 +1,5 @@
+# Ignore all personal Advent of Code inputs
+year*/input/*
+
+# Keep the input directories on GitHub
+!year*/input/.gitkeep
