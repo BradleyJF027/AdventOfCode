@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Day02 {
     public static void main (String[] args) {
-        // part1();
+        part1();
         part2();
     }
 

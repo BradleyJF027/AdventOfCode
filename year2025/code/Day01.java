@@ -17,7 +17,6 @@ public class Day01 {
 
         try (BufferedReader reader = new BufferedReader(new FileReader(inputDoc))) {
             String line;
-            
             while ((line = reader.readLine()) != null) {
                 char direction = line.charAt(0);
                 int distance = Integer.parseInt(line.substring(1));

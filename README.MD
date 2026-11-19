@@ -8,6 +8,7 @@ Puzzle inputs are kept locally and not included in this repository.
 |---|---|---|
 |[2025](./year2025) | Java | Day 1 Complete
 |[2025](./year2025) | Java | Day 2 Complete
+|[2025](./year2025) | Java | Day 3 Part 1 Complete
 
 ## About Advent of Code
 Advent of Code is created by [Eric Wastl](https://adventofcode.com/about). The puzzles are a fun way to practise programming and learn new techniques.
